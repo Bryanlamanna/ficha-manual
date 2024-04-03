@@ -1,0 +1,19 @@
+.form-group {
+    padding-bottom:34px;
+}
+
+.boletim {
+    display: none;
+}
+
+#formulario {
+    background-color: rgb(94, 94, 94);
+    color: white;
+    font-size: x-large;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
