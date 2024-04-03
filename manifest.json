@@ -1,0 +1,14 @@
+{
+  "background_color": "#741717",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ficha Manual",
+  "orientation": "portrait",
+  "scope": "/https://bryanlamanna.github.io/ficha-manual/",
+  "short_name": "Ficha",
+  "start_url": "/https://bryanlamanna.github.io/ficha-manual/",
+  "theme_color": "#811515",
+  "id": "manualFicha",
+  "description": "formulário para preencher manualmente a ficha clinica do PA 24h da uniodonto",
+  "lang": "pt"
+}
